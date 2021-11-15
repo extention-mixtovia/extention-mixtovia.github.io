@@ -1,5 +1,8 @@
 body{
 font-family: 'Ubuntu', arial;
+width: 469px;
+height: 760px;
+background-image: url("https://extention-mixtovia.github.io/extention-files/bg.jpg");
 }
 .footer{
 background-color: black;
